@@ -3,8 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SlashyIsTaken&show_icons=true&theme=omni&include_all_commits=true&locale=nl&count_private=true)
 <br>
 
-#### Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/308265375739412480?theme=dark)](https://discord.com/users/308265375739412480)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slashy&theme=vue-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 <br>
 
 #### About me
