@@ -5,7 +5,7 @@
 Hi, I’m Slashy — a back-end developer with a strong passion for clean code, modular systems, and optimized performance.
 
 I specialize in:
-- Lua scripting for FiveM
+- Python, C++, Lua
 - Server-side architecture
 - API development and system communication
 
