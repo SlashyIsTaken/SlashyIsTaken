@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m Slashy — a back-end developer with a strong passion for clean code, modular systems, and optimized performance.
+Hi, I’m Slashy — an aspiring developer with a strong passion for clean code, modular systems, and optimized performance.
 
-I specialize in:
+I am specializing in:
 - Server-side architecture
 - API development and system communication
 
