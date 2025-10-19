@@ -2,13 +2,14 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m Slashy — an aspiring developer with a strong passion for clean code, modular systems, and optimized performance.
+Hi, I’m Slashy — an aspiring engineer with a passion for coding, automation, and electronics.
 
-I am specializing in:
+I am currently specializing in:
+- Embedded Systems
 - Server-side architecture
 - API development and system communication
 
-Always exploring new languages & tools.
+Always exploring new tools & devkits.
 
 ---
 
@@ -45,7 +46,7 @@ Always exploring new languages & tools.
 
 ## 📫 Contact
 
-- 💬 Discord: `concussing`
+- `inquiries@slashy.nl`
 
 ---
 
