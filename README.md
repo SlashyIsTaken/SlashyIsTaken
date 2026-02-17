@@ -1,15 +1,13 @@
-# ⚡ Slashy
+# ⚡ /y
 
 ## 👨‍💻 About Me
 
-Hi, I’m Slashy — an aspiring engineer with a passion for coding, automation, and electronics.
+Hi, I’m /y — an aspiring engineer with a passion for coding, automation, and electronics.
 
 I am currently specializing in:
 - Embedded Systems
 - Server-side architecture
 - API development and system communication
-
-Always exploring new tools & devkits.
 
 ---
 
