@@ -2,12 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m /y — an aspiring engineer with a passion for coding, automation, and electronics.
-
-I am currently specializing in:
-- Embedded Systems
-- Server-side architecture
-- API development and system communication
+Hi, I’m /y — an engineer with a passion for coding, automation, and electronics.
 
 ---
 
@@ -47,7 +42,5 @@ I am currently specializing in:
 - `inquiries@slashy.nl`
 
 ---
-
-> Proudly building with ❤️ from the Netherlands.
 
 ![Views](https://komarev.com/ghpvc/?username=SlashyIsTaken&color=blue)
