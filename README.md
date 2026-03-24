@@ -14,7 +14,7 @@ Hi, I’m /y — an engineer with a passion for coding, automation, and electron
       <img src="https://streakstats.vercel.app/api?username=SlashyIsTaken&show=reviews,prs_merged_percentage&show_icons=true&hide=contribs,prs,issues&include_all_commits=true&theme=dark#gh-dark-mode-only" alt="Stats" />
     </td>
     <td align="right">
-      <img src="https://streakstats.vercel.app/api/top-langs/?username=SlashyIsTaken&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+      <img src="https://streakstats.vercel.app/api/top-langs/?username=SlashyIsTaken&layout=compact&size_weight=0.5&count_weight=0.5&hide=javascript,html,css" alt="Top Langs" />
     </td>
   </tr>
 </table>
