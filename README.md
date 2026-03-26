@@ -43,4 +43,4 @@ Hi, I’m /y — an engineer with a passion for coding, automation, and electron
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=SlashyIsTaken&color=blue)
+![Views](https://komarev.com/ghpvc/?username=SlashyIsTaken&color=red)
