@@ -1,7 +1,7 @@
 <h1 align="center">/y</h1>
 
 <p align="center">
-  <em>Engineer. Builder of small useful things and large unnecessary ones.</em>
+  <em>Engineer. Builder of small useful things and large useless ones.</em>
 </p>
 
 <h3 align="center">whoami</h3>
