@@ -11,6 +11,18 @@
   and occasionally solder something that was not supposed to be soldered.
 </p>
 
+<h3 align="center">Public Projects</h3>
+
+<p align="center">
+  <a href="https://fixthestrait.com"><b>fixthestrait.com</b></a>
+  <br/><sub><em>An unclassified dossier of twelve solutions to the Strait of Hormuz. Live oil prices included.</em></sub>
+</p>
+
+<p align="center">
+  <a href="https://minigamewish.com"><b>minigamewish.com</b></a>
+  <br/><sub><em>Greeting cards delivered as mini-games. No app, no signup, just a link.</em></sub>
+</p>
+
 <h3 align="center">Stack</h3>
 
 <p align="center">
