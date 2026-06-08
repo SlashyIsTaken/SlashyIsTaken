@@ -43,7 +43,7 @@
 
 <p align="center">
   For inquiries, collaborations, or arguments about tab width:<br/>
-  <code>inquiries@slashy.nl</code>
+  <code>inquiries@flarepoint.nl</code>
 </p>
 
 <p align="center">
